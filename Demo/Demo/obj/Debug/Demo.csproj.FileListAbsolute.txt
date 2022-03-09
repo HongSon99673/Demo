@@ -1,0 +1,10 @@
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\hongs\Máy tính\CC&MTPTPM\Demo\Demo\Demo\obj\Debug\Demo.Form1.resources
